@@ -16,6 +16,8 @@
 ![Static Badge](https://img.shields.io/badge/Bugger-Bugger?style=plastic&label=Bloody&labelColor=%23e78177&color=%23d03323)
 ![Static Badge](https://img.shields.io/badge/Alcoholic-Alcoholic?style=plastic&label=Gorey&labelColor=%23ce5e5e&color=%238d1818)
 
+![IMG_7096](https://github.com/user-attachments/assets/bc0f5bd0-4b06-4dac-a5a3-1f5327f33c68)
+
 
 <img width="2048" height="2048" alt="IMG_7007" src="https://github.com/user-attachments/assets/26b13edf-47e3-4246-9139-54c473737e9b" />
 
