@@ -10,4 +10,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cookie&pause=1000&color=CC2D2D&width=435&lines=%22+Don't+need+love+when+it's+not+from+a+bottle+!+%22;%22+You're+a+loser%2C+baby%2C+a+loser+goddamn+baby+.+%22)](https://git.io/typing-svg)
 
 
+<img width="400" height="160" alt="IMG_7065" src="https://github.com/user-attachments/assets/8b90934c-2aa7-4910-9086-19b6000ce75a" />
+
+
+
 </div>
