@@ -14,6 +14,7 @@
 
 
 ![Static Badge](https://img.shields.io/badge/Bugger-Bugger?style=plastic&label=Bloody&labelColor=%23e78177&color=%23d03323)
+![Static Badge](https://img.shields.io/badge/Alcoholic-Alcoholic?style=plastic&label=Gorey&labelColor=%23ce5e5e&color=%238d1818)
 
 
 </div>
