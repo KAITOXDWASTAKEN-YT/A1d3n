@@ -17,9 +17,9 @@
 ![Static Badge](https://img.shields.io/badge/Alcoholic-Alcoholic?style=plastic&label=Gorey&labelColor=%23ce5e5e&color=%238d1818)
 
 
-<img width="2048" height="1572" alt="IMG_7006" src="https://github.com/user-attachments/assets/6cca9c4d-d5a7-4444-be16-c6aefbe1fa96" />
-
 <img width="2048" height="2048" alt="IMG_7007" src="https://github.com/user-attachments/assets/26b13edf-47e3-4246-9139-54c473737e9b" />
+
+<img width="1280" height="163" alt="IMG_7097" src="https://github.com/user-attachments/assets/d2146265-be43-4fd5-9b9c-48d5617cd732" />
 
 
 
