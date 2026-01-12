@@ -13,5 +13,7 @@
 <img width="400" height="160" alt="IMG_7065" src="https://github.com/user-attachments/assets/8b90934c-2aa7-4910-9086-19b6000ce75a" />
 
 
+![Static Badge](https://img.shields.io/badge/Bugger-Bugger?style=plastic&label=Bloody&labelColor=%23e78177&color=%23d03323)
+
 
 </div>
