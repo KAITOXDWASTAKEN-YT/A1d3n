@@ -19,6 +19,8 @@
 
 <img width="2048" height="1572" alt="IMG_7006" src="https://github.com/user-attachments/assets/6cca9c4d-d5a7-4444-be16-c6aefbe1fa96" />
 
+<img width="2048" height="2048" alt="IMG_7007" src="https://github.com/user-attachments/assets/26b13edf-47e3-4246-9139-54c473737e9b" />
+
 
 
 </div>
