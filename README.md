@@ -56,6 +56,14 @@ $${\color{#bb2222} Socially \space Awkward  }$$
 
 <details>
 <summary>$${\color{#a92e2e} Extras \space / \space Interests }$$</summary>
+$${\color{#a71c0e} FNAF }$$
+
+$${\color{#a71c0e} FNF }$$
+
+$${\color{#a71c0e} Gacha \space Life \space / \space Club }$$
+
+$${\color{#a71c0e} Vivzie \space Verse }$$
+</details>
 
 
 
