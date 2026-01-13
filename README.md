@@ -39,13 +39,18 @@
 ![image31 (2)](https://github.com/user-attachments/assets/2c57d992-3e91-4322-a249-bc922c9385cd)
 ![image27](https://github.com/user-attachments/assets/70492fb0-c8eb-46f8-a43c-435797f0033e)
 ![image15](https://github.com/user-attachments/assets/99cf4183-052a-4da4-b083-559f020911e7)
-
-<img width="500" height="48" alt="image9" src="https://github.com/user-attachments/assets/4b097c59-35f7-421c-96ec-03e9029cebeb" />
-
 ![image12](https://github.com/user-attachments/assets/e3d36c88-5fcd-4afc-b214-81f0a28ddfb8)
 
 
+<img width="500" height="48" alt="image9" src="https://github.com/user-attachments/assets/4b097c59-35f7-421c-96ec-03e9029cebeb" />
 
+<details>
+<summary>$${\color{#931c10} About \space us \space ! }$$</summary>
+$${\color{#bb2222} Socially \space Awkward  }$$
+</details>
+
+<details>
+<summary>$${\color{#a92e2e} Extras \space / \space Interests }$$</summary>
 
 
 
