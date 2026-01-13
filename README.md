@@ -23,6 +23,23 @@
 
 <img width="1280" height="163" alt="IMG_7097" src="https://github.com/user-attachments/assets/d2146265-be43-4fd5-9b9c-48d5617cd732" />
 
+![blinkiesCafe-4W](https://github.com/user-attachments/assets/e6e658d9-5c57-44a7-af4f-9a6c14baf834)
+![blinkiesCafe-KO](https://github.com/user-attachments/assets/2501b2a9-bb92-4f54-8372-2afbe6b917a1)
+![blinkiesCafe-qn](https://github.com/user-attachments/assets/ccd87eeb-d52c-4f71-94f8-33159b1262ab)
+![blinkiesCafe-Y1 (1)](https://github.com/user-attachments/assets/2ce825aa-0312-4d0c-a63f-7a14514c56f6)
+
+<img width="500" height="115" alt="image7" src="https://github.com/user-attachments/assets/02cd896a-e84d-4ea2-affa-d7254e2d8e5b" />
+
+![image45](https://github.com/user-attachments/assets/6b46b271-7ae1-4221-94fd-d19e556e34cc)
+![image44](https://github.com/user-attachments/assets/57abb3b5-6ba0-43ab-a4d5-59ca768d0b36)
+![image43](https://github.com/user-attachments/assets/eebb5d09-eccc-4328-a5a1-bf4ba30e8bb8)
+![image40](https://github.com/user-attachments/assets/56208360-f21a-4a02-bc5e-8a04d493582b)
+![image37](https://github.com/user-attachments/assets/54d4e638-e0d5-43af-b23b-4b4c2bb05bf1)
+
+
+
+
+
 
 
 </div>
