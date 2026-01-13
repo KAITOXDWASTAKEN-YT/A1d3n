@@ -42,6 +42,11 @@
 ![image12](https://github.com/user-attachments/assets/e3d36c88-5fcd-4afc-b214-81f0a28ddfb8)
 
 
+$${\color{#a71c0e} Aiden \space , \space Ash \space , \space Foxy }$$
+
+$${\color{#ab1000} He \space / \space They \space / \space It \space prns \space . }$$
+
+
 <img width="500" height="48" alt="image9" src="https://github.com/user-attachments/assets/4b097c59-35f7-421c-96ec-03e9029cebeb" />
 
 <details>
