@@ -52,20 +52,54 @@ $${\color{#ab1000} He \space / \space They \space / \space It \space prns \space
 <details>
 <summary>$${\color{#931c10} About \space us \space ! }$$</summary>
 $${\color{#bb2222} Socially \space Awkward  }$$
-$${\color{#bb2222} 
-$${\color{#bb2222}
-$${\color{#bb2222}
+
+$${\color{#bb2222} Hanging out w/ friends
+
+$${\color{#bb2222} Likes Poor man Shopping
+
 </details>
 
 <details>
 <summary>$${\color{#a92e2e} Extras \space / \space Interests }$$</summary>
 $${\color{#a71c0e} FNAF }$$
 
+$${\color{#a71c0e} Yaoi/BL and Yuri/GL
+
 $${\color{#a71c0e} FNF }$$
 
 $${\color{#a71c0e} Gacha \space Life \space / \space Club }$$
 
 $${\color{#a71c0e} Vivzie \space Verse }$$
+
+$${\color{#a71c0e} Omori }$$
+
+$${\color{#a71c0e} DDLC }$$
+
+$${\color{#a71c0e} Pokemon }$$
+
+$${\color{#a71c0e} Epic: \space The \space Musical }$$
+
+$${\color{#a71c0e} Roblox }$$
+
+$${\color{#a71c0e} Sonic }$$
+
+$${\color{#a71c0e} The \space Lacey \space Games }$$
+
+$${\color{#a71c0e} CRK }$$
+
+$${\color{#a71c0e} South \space Park }$$
+
+$${\color{#a71c0e} PJO }$$
+
+$${\color{#a71c0e} Dead \space Plate }$$
+
+$${\color{#a71c0e} Cold \space Front }$$
+
+$${\color{#a71c0e} Elevator \space Hitch }$$
+
+$${\color{#a71c0e} Rot \space in \space Paradise }$$
+
+$${\color{#a71c0e} Marriedinred
 </details>
 
 
