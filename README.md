@@ -53,17 +53,17 @@ $${\color{#ab1000} He \space / \space They \space / \space It \space prns \space
 <summary>$${\color{#931c10} About \space us \space ! }$$</summary>
 $${\color{#bb2222} Socially \space Awkward  }$$
 
-$${\color{#bb2222} Hanging out w/ friends }$$
+$${\color{#bb2222} Hanging \space Awkward \space Awkward out \space Awkward w/ \space Awkward friends }$$
 
-$${\color{#bb2222} Likes Poor man Shopping }$$
-
+$${\color{#bb2222} Likes \space to \space poor \space man \space shop }$$
 </details>
+
 
 <details>
 <summary>$${\color{#a92e2e} Extras \space / \space Interests }$$</summary>
 $${\color{#a71c0e} FNAF }$$
 
-$${\color{#a71c0e} Yaoi/BL and Yuri/GL
+$${\color{#a71c0e} Yaoi/BL and Yuri/GL }$$
 
 $${\color{#a71c0e} FNF }$$
 
@@ -99,7 +99,7 @@ $${\color{#a71c0e} Elevator \space Hitch }$$
 
 $${\color{#a71c0e} Rot \space in \space Paradise }$$
 
-$${\color{#a71c0e} Marriedinred
+$${\color{#a71c0e} Marriedinred }$$
 </details>
 
 
