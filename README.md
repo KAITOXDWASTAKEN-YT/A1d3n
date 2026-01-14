@@ -52,6 +52,9 @@ $${\color{#ab1000} He \space / \space They \space / \space It \space prns \space
 <details>
 <summary>$${\color{#931c10} About \space us \space ! }$$</summary>
 $${\color{#bb2222} Socially \space Awkward  }$$
+$${\color{#bb2222} 
+$${\color{#bb2222}
+$${\color{#bb2222}
 </details>
 
 <details>
