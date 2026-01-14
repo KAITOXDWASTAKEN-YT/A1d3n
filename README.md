@@ -53,9 +53,9 @@ $${\color{#ab1000} He \space / \space They \space / \space It \space prns \space
 <summary>$${\color{#931c10} About \space us \space ! }$$</summary>
 $${\color{#bb2222} Socially \space Awkward  }$$
 
-$${\color{#bb2222} Hanging out w/ friends
+$${\color{#bb2222} Hanging out w/ friends }$$
 
-$${\color{#bb2222} Likes Poor man Shopping
+$${\color{#bb2222} Likes Poor man Shopping }$$
 
 </details>
 
